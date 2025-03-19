@@ -7,6 +7,9 @@ This project provides a comprehensive analysis of bike ride patterns in London, 
 
 The analysis focuses on identifying patterns and correlations between bike ride volumes and external factors like temperature, wind speed, and time of year. By visualizing these relationships, the project aims to provide actionable insights for optimizing bike-sharing operations and improving urban mobility.
 
+## Project Preview
+![Tableau Dashboard](Results/displot.png)
+
 
 ## Project Highlights
 
