@@ -8,9 +8,9 @@ By uncovering correlations between environmental factors and ridership, the proj
 
 ---
 
-## Visual Summary
+## Visual Summary - [Link](https://public.tableau.com/app/profile/vedant.shinde2971/viz/tableau_17423377804390/Dashboard1)
 
-### Tableau Dashboard Overview
+### Tableau Dashboard Overview  
 
 ![Tableau Dashboard](Results.png)  
 An interactive dashboard that presents time-based trends, weather-driven behavior, and dynamic filters for analyzing bike ride patterns. Designed for usability across teams—from operations and logistics to policy and marketing.
